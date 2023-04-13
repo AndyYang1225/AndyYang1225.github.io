@@ -33,13 +33,11 @@ fi
 ```
 {{< /note >}}
 
-{{<note title="待學習知識">}}
+{{<note title="Unlearned">}}
 ```bash
 rust functional programming
 MERGE into
 bash進階： awk; sed; find  -exec 
-https://linux.vbird.org/linux_basic/centos7/0320bash.php
-
 docker
 docker-compose
 LPI Linux 第一級資格檢定 第三版
@@ -48,10 +46,5 @@ nbuntu 22.04
 ```
   {{< /note >}}
 
-{{note title="vm docker"}}
-```bash
-
-```
-{{< /note >}}
 
 
