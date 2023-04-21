@@ -1,6 +1,5 @@
 ---
 title: "[前端] Vue"
-date: 2023-04-21T08:06:25+06:00
 menu:
   sidebar:
     name: "[前端] Vue"
