@@ -1,10 +1,10 @@
 ---
-title: Vue-LifeCycle
+title: "Vue-LifeCycle"
 menu:
   sidebar:
-    name: Vue-LifeCycle
+    name: "Vue-LifeCycle"
     identifier: Vue-LifeCycle
-    parent: Vue
+    parent: sub-vue
     weight: 10
 ---
 123
