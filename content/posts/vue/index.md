@@ -1,5 +1,5 @@
 ---
-title: "[前端] Vue"
+title: "Top Vue Sample"
 menu:
   sidebar:
     name: "[前端] Vue"
