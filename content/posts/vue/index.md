@@ -8,4 +8,3 @@ menu:
 hero: boat.jpg
 
 ---
-測試中
