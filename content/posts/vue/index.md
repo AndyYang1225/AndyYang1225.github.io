@@ -5,7 +5,7 @@ description: Vue life cycle
 menu:
   sidebar:
     name: Vue life cycle
-    identifier: shortcodes
+    identifier: vue
     weight: 40
 hero: boat.jpg
 mermaid: true

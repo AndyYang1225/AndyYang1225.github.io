@@ -5,7 +5,7 @@ description: net core
 menu:
   sidebar:
     name: net core
-    identifier: shortcodes
+    identifier: net
     weight: 40
 hero: boat.jpg
 mermaid: true
