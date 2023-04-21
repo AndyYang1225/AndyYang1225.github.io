@@ -1,11 +1,11 @@
 ---
-title: "[前端] Vue"
+title: "[後端] SQL"
 date: 2023-04-21T08:06:25+06:00
-description: Vue life cycle2
+description: SQL
 menu:
   sidebar:
-    name: Vue life cycle3
-    identifier: vue
+    name: "[後端] SQL"
+    identifier: sql
     weight: 40
 hero: boat.jpg
 
