@@ -4,7 +4,8 @@ menu:
   sidebar:
     name: "Vue-LifeCycle"
     identifier: Vue-LifeCycle
-    parent: sub-vue
+    parent: sub-Vue
     weight: 10
 ---
-123
+
+git test

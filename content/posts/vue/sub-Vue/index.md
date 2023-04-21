@@ -1,9 +1,9 @@
 ---
-title: "Sub-vue"
+title: "Sub-Vue"
 menu:
   sidebar:
-    name: "Sub-vue"
-    identifier: sub-vue
+    name: "Sub-Vue"
+    identifier: sub-Vue
     parent: Vue
     weight: 10
 ---
