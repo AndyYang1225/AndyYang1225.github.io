@@ -10,4 +10,7 @@ menu:
 hero: boat.jpg
 
 ---
-測試中
+
+待新增
+
+{{< img src="content/posts/Vue/Vue-LifeCycle\images/lifecycle.png" align="center" title="Forest">}}
