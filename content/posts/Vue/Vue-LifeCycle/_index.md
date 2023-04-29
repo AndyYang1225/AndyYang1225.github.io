@@ -1,5 +1,5 @@
 ---
-title: "[前端] Vue LifeCycle"
+title: "Vue LifeCycle"
 menu:
   sidebar:
     name: "[前端] Vue LifeCycle"
